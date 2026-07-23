@@ -1,9 +1,10 @@
 # 🚀 LeetCode Solutions by Topic | Data Structures & Algorithms in Javascript
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/CodeByDarshanDev/leetcode-solutions)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/CodeByDarshanDev/leetcode-solutions)
-![GitHub Stars](https://img.shields.io/github/stars/CodeByDarshanDev/leetcode-solutions?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/CodeByDarshanDev/leetcode-solutions?style=social)
+![GitHub Tag](https://img.shields.io/github/v/tag/CodeByDarshanDev/DSA_leetcode)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/CodeByDarshanDev/DSA_leetcode)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/CodeByDarshanDev/DSA_leetcode)
+![GitHub Stars](https://img.shields.io/github/stars/CodeByDarshanDev/DSA_leetcode?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/CodeByDarshanDev/DSA_leetcode?style=social)
 
 A curated collection of **LeetCode solutions in Javascript**, organized **topic-wise** for efficient interview preparation and Data Structures & Algorithms (DSA) practice.
 
